@@ -2,4 +2,7 @@
   email = l74ndro@gmail.com
   name  = Leandro
 
+[core]
+  editor = vim
+
 

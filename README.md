@@ -17,3 +17,9 @@
 `ruler`
 `number`
 `LineNr`
+`tabstop`
+`softtabstop`
+`expandtab`
+`mouse`
+
+

@@ -5,5 +5,7 @@ apt install \
   vim \
   htop \
   tree \
+  wget \
+  curl \
 -y
 

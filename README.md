@@ -22,4 +22,11 @@
 `expandtab`
 `mouse`
 
+## apt
+
+CLI ->
+`git` `vim`
+`htop` `tree`
+`wget` `curl`
+
 

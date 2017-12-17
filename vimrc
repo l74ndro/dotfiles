@@ -1,2 +1,5 @@
 set nocompatible
 
+set nobackup
+set noswapfile
+

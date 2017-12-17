@@ -13,4 +13,7 @@
 `nocompatible`
 `nobackup`
 `noswapfile`
-
+`title`
+`ruler`
+`number`
+`LineNr`

@@ -35,3 +35,9 @@ GUI ->
 `audacious`
 
 
+## grub2
+
+`/etc/default/grub`  
+`update-grub2`
+
+`quiet splash` <- `text`

@@ -10,4 +10,5 @@
 
 `~/.vimrc` -> `vimrc` `vimrc-ln.sh`
 
+`nocompatible`
 

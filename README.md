@@ -29,4 +29,9 @@ CLI ->
 `htop` `tree`
 `wget` `curl`
 
+GUI ->
+`gparted` `synaptic`
+`soundconverter` `ubuntu-restricted-extras`
+`audacious`
+
 

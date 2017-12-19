@@ -41,3 +41,10 @@ GUI ->
 `update-grub2`
 
 `quiet splash` <- `text`
+
+
+## .cache
+
+`rm -rv ~/.cache`
+
+
